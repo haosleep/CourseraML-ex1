@@ -12,4 +12,5 @@ featureNormalize.m--------特徵縮放<br>
 gradientDescent.m---------梯度下降(ex1.m用)<br>
 gradientDescentMulti.m---梯度下降(ex1_multi.m用)<br>
 normalEqn.m---------------正規方程<br>
+plotData.m-----------------繪製二維圖指令練習(ex1.m用)<br>
 warmUpExercise.m---------Octave的Hello World
