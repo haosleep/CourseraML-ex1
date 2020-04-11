@@ -4,8 +4,8 @@
 <br>
 computeCost.m------------損失函數(ex1.m用)<br>
 computeCostMulti.m------損失函數(ex1_multi.m用)<br>
-ex1.m-----------------------作業內容<br>
-ex1_multi.m----------------作業進階練習內容<br>
+ex1.m-----------------------作業內容(一項特徵值的情況進行線性回歸)<br>
+ex1_multi.m----------------作業進階練習內容(多項特徵值的情況進行線性回歸)<br>
 ex1data1.txt----------------訓練資料(ex1.m用)<br>
 ex1data2.txt----------------訓練資料(ex1_multi.m用)<br>
 featureNormalize.m--------特徵縮放<br>
